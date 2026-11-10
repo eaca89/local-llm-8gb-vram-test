@@ -1,0 +1,42 @@
+[
+ {
+  "q": "How many days of paid parental leave do employees get?",
+  "a": "18 weeks"
+ },
+ {
+  "q": "What is the hotel limit per night in New York?",
+  "a": "$340"
+ },
+ {
+  "q": "Who approves purchases above $5,000?",
+  "a": "CFO"
+ },
+ {
+  "q": "What is the code of the meeting room on floor 3?",
+  "a": "Juniper"
+ },
+ {
+  "q": "How many days before a flight must travel be booked to avoid manager sign-off?",
+  "a": "21 days"
+ },
+ {
+  "q": "What is the yearly learning budget per employee?",
+  "a": "$1,800"
+ },
+ {
+  "q": "Which tool is used for expense reports?",
+  "a": "Ledgerly"
+ },
+ {
+  "q": "What is the minimum password length?",
+  "a": "16"
+ },
+ {
+  "q": "On which day is the office closed for the summer shutdown?",
+  "a": "August 14"
+ },
+ {
+  "q": "What is the on-call bonus per week?",
+  "a": "$450"
+ }
+]
